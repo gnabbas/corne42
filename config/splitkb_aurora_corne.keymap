@@ -73,7 +73,7 @@
             bindings = <
 &kp ESCAPE  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT                         &kp ASTERISK  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp CARET     &kp RPAR   &kp BSPC
 &kp TAB     &trans    &trans  &trans    &trans    &trans                            &kp PIPE      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp KP_EQUAL  &kp BSLH   &kp GRAVE
-&kp LSHFT   &trans    &trans  &trans    &trans    &trans                            &kp HASH      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp RBRC      &kp TILDE  &kp TILDE
+&kp LSHFT   &trans    &trans  &trans    &trans    &trans                            &kp HASH      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp COLON     &kp TILDE  &kp TILDE
                               &kp LGUI  &trans    &spaceholdmeta LEFT_META SPACE    &kp RET       &trans                &kp RALT
             >;
         };
